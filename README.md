@@ -29,9 +29,6 @@ Refinando classes:
 * classe Object - toString() e equals()
 * igualdade e comparação de objetos
 
-<!--
-
-
 ## aula 5
 Associando classes: 
 * tipos de associação
@@ -50,6 +47,7 @@ Classes abstratas e polimorfismo:
 * métodos abstratos
 * ganhos do polimorfismo
 
+<!--
 ## aula 8
 Interfaces:
 * criação de interfaces
