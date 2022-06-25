@@ -47,7 +47,7 @@ Classes abstratas e polimorfismo:
 * métodos abstratos
 * ganhos do polimorfismo
 
-<!--
+
 ## aula 8
 Interfaces:
 * criação de interfaces
@@ -59,4 +59,11 @@ Exceptions:
 * bloco try/catch e lançando uma exception
 * exceptions verificadas e não verificadas
 * criando as nossas próprias exceptions
--->
+
+## aula 9 (bônus)
+Trabalhando com Arquivos texto no Java:
+* manipulando diretórios
+* manipulando arquivos
+* abrindo e escrevendo em arquivos no modo texto
+* OBS: para o código rodar deve existir ser criada a pasta "arquivos" e etc na raiz do projeto, o que não foi feito aqui...
+
